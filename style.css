@@ -1,5 +1,5 @@
 body{
-    height: 30vh;
+    height: 40vh;
     display: flex;
     justify-content: space-around;
     flex-direction: column;
@@ -28,6 +28,7 @@ body{
     border: none;
     outline: none;
     background-color: black;
+    color: #5fa8d3;
 }
 .form label{
     position: absolute;
